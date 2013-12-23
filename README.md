@@ -30,3 +30,7 @@ Restart Xcode and you can select it (Preferences > Fonts & Colors).
 ## Credits
 
 Written by Mark Dodwell ([@madeofcode](http://twitter.com/madeofcode))
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mkdynamic/themes/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
